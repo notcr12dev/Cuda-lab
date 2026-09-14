@@ -1,1 +1,9 @@
 build/
+ML/build/
+ML/data_train.csv
+ML/data_test.csv
+ML/losses.csv
+ML/preds.csv
+ML/results.png
+.venv/
+*.csv 
